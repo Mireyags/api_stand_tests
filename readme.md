@@ -12,4 +12,5 @@ El objetivo de este proyecto es automatizar pruebas
 - Tener instalado Pycharm
 - Tener instalados los paquetes de pytest
 - Ejecutar las pruebas con el comando pytest
-- Asegurate de tener el entorno preparado
+- Asegurate que todo este preparado
+- -Es importante pytest
